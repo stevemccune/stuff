@@ -70,7 +70,7 @@ div.header{position:fixed;top:0;left:0;padding:0;margin:0;height:100%;margin-lef
 div.header div.gradient{position:absolute;height:50%;top:50%;left:0;width:100%;background:0 0;background:-webkit-gradient(linear,left bottom,left top,color-stop(0,#000),color-stop(1,transparent));background:-ms-linear-gradient(bottom,#000,transparent);background:-moz-linear-gradient(center bottom,#000 0%,transparent 100%);background:-o-linear-gradient(transparent,#000);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='transparent',endColorstr='#000',GradientType=0)}
 div.header div.title{position:absolute;bottom:30px;left:0;width:100%;text-align:center}
 div.header div.name{position:relative;left:0;width:100%;text-align:center}
-div.header div.name h1{width:100%;text-align:center;font-size:25px;font-weight:700;padding:0;margin:0;5px 3px 1px #444;color:white}
+div.header div.name h1{width:100%;text-align:center;font-size:25px;font-weight:700;padding:0;margin:0;5px 3px 1px #444;}
 div.header div.title ul.social{display:inline-block;margin:0 auto;z-index:1000}
 div.header div.title ul.social li{list-style-type:none;display:inline-block}
 div.header div.title ul.social li a{display:inline-block;width:30px;height:25px;-webkit-border-radius:50%;-moz-border-radius:50%;border-radius:50%;background-color:#fff;padding-top:8px;margin:0 5px}
@@ -194,7 +194,7 @@ div.header{position:relative;height:250px;border:15px solid #fff}
 div.header.span4{margin:0;padding:0}
 div.posts{padding:130px 30px 0;text-align:center}
 div.header a.logo {border: 10px solid white;}
-div.header div.name h1{margin:0;text-shadow:5px 3px 1px #dfdfdf;color:#222}
+div.header div.name h1{margin:0;text-shadow:5px 3px 1px #dfdfdf;}
 }
 .post-pdf{position:relative}
 .post-pdf .pdf-fullscreen{position:absolute;bottom:30px;left:30px;color:#000;font-size:12px;padding:10px;background-color:#1abc9c;border-radius:7px;-moz-opacity:.3;-khtml-opacity:.3;-webkit-opacity:.3;opacity:.3;-ms-filter:progid:DXImageTransform.Microsoft.Alpha(opacity=30);filter:alpha(opacity=30);-webkit-transition:all .1s ease-in;-moz-transition:all .1s ease-in;-o-transition:all .1s ease-in;transition:all .1s ease-in;-webkit-appearance:none;cursor:pointer;border:0}
